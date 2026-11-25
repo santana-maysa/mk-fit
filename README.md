@@ -1,8 +1,10 @@
 # MK Fit — Site Institucional
 
-Site institucional desenvolvido para a MK Fit, com o objetivo de apresentar a academia, suas modalidades e estrutura, além de facilitar o contato com pessoas interessadas em conhecer seus serviços.
+<escape>🌐</escape> **Demo:** [Acessar site da MK Fit](https://mk-fit.maysasantana-dev.workers.dev/)
 
 ## Sobre o projeto
+
+Site institucional desenvolvido para a MK Fit, com o objetivo de apresentar a academia, suas modalidades e estrutura, além de facilitar o contato com pessoas interessadas em conhecer seus serviços.
 
 O projeto consiste em uma landing page moderna e responsiva, desenvolvida para fortalecer a presença digital da academia e proporcionar uma experiência simples e intuitiva aos visitantes.
 
@@ -41,7 +43,7 @@ Não é necessário instalar dependências ou configurar um servidor para execut
 
 ## Hospedagem
 
-O projeto foi preparado para hospedagem estática, com possibilidade de publicação pelo Cloudflare Pages.
+O projeto está publicado no Cloudflare e pode ser acessado pelo link de demonstração disponível no início deste documento.
 
 ## Status
 
