@@ -1,34 +1,52 @@
-# MK Fit
+# MK Fit — Site Institucional
 
-Landing page institucional demonstrativa da MK Fit, desenvolvida apenas com HTML5, CSS3 e JavaScript puro.
+Site institucional desenvolvido para a MK Fit, com o objetivo de apresentar a academia, suas modalidades e estrutura, além de facilitar o contato com pessoas interessadas em conhecer seus serviços.
 
-## Estrutura
+## Sobre o projeto
 
-```text
-├── index.html
-├── assets/
-│   ├── images/
-│   └── icons/
-├── css/style.css
-├── js/script.js
-└── README.md
-```
+O projeto consiste em uma landing page moderna e responsiva, desenvolvida para fortalecer a presença digital da academia e proporcionar uma experiência simples e intuitiva aos visitantes.
 
-As imagens atuais são URLs provisórias do Unsplash. Para usar fotografias reais, substitua as URLs no `index.html` ou mova os arquivos para `assets/images/` e atualize os atributos `src`/background.
+## Funcionalidades
 
-## Visualização local
+- Apresentação institucional da academia.
+- Seção de modalidades e atividades.
+- Galeria de imagens.
+- Informações de contato.
+- Acesso rápido ao WhatsApp.
+- Layout responsivo para dispositivos móveis, tablets e computadores.
 
-Abra `index.html` diretamente no navegador. Nenhuma instalação, compilação ou servidor backend é necessária. Para uma experiência local mais próxima de hospedagem, também é possível usar a extensão Live Server do editor de sua preferência.
+## Tecnologias utilizadas
 
-## Publicação no Cloudflare Pages
+- HTML5
+- CSS3
+- JavaScript
 
-1. Crie um repositório no GitHub e envie todos os arquivos deste diretório.
-2. No Cloudflare, acesse **Workers & Pages > Create application > Pages > Connect to Git**.
-3. Selecione o repositório.
-4. Escolha `None` como framework e deixe o comando de build vazio.
-5. Use a raiz do projeto como diretório de saída.
-6. Publique. O `index.html` será servido automaticamente no domínio `pages.dev`.
+## Como executar o projeto
 
-## Conteúdo provisório
+1. Clone este repositório:
 
-Endereço, telefone, horários, e-mail, links sociais, textos institucionais e planos são placeholders e devem ser revisados antes da publicação comercial.
+   ```bash
+   git clone https://github.com/santana-maysa/mk-fit.git
+   ```
+
+2. Entre na pasta:
+
+   ```bash
+   cd mk-fit
+   ```
+
+3. Abra o arquivo `index.html` no navegador.
+
+Não é necessário instalar dependências ou configurar um servidor para executar a versão estática.
+
+## Hospedagem
+
+O projeto foi preparado para hospedagem estática, com possibilidade de publicação pelo Cloudflare Pages.
+
+## Status
+
+Em desenvolvimento.
+
+---
+
+Desenvolvido por [Maysa Ferreira](https://github.com/santana-maysa).
